@@ -3,3 +3,4 @@ remote edit 1 for local no add changes conflicts .
 remote edit 2 for local no add chages conflicts .  
 
 remote commit edit 1 .  
+remote commit edit 2 .  
